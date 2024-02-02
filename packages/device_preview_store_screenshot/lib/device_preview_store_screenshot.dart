@@ -8,8 +8,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 
-export 'device_preview_screenshot_helper.dart';
-
 class DevicePreviewScreenshotTool extends StatelessWidget {
   const DevicePreviewScreenshotTool({
     super.key,
