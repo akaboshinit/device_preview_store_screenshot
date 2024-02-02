@@ -1,8 +1,10 @@
 name: device_preview_store_screenshot
-description: A new Flutter package project.
+description: Using device_preview to create a screenshot for store from a simulator.
 version: 0.0.1
 
-
+repository: https://github.com/akaboshinit/device_preview_store_screenshot
+homepage: https://github.com/akaboshinit/device_preview_store_screenshot
+issue_tracker: https://github.com/akaboshinit/device_preview_store_screenshot/issues
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
