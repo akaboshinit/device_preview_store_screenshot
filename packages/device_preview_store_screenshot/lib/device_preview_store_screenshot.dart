@@ -111,6 +111,7 @@ Future<void> _takeScreenshot({
   // スクショがあるディレクトリのpngファイルをoutputFilePathに移動するコマンドと削除コマンドをクリップボードにセット
   final message = '''
 mv ${rootFolder.path}/*.png $outputFilePath
+open $outputFilePath
 ''';
 
   if (kDebugMode) {
