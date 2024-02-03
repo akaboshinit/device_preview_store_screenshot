@@ -1,14 +1,14 @@
 name: device_preview_store_screenshot
 description: Using device_preview to create a screenshot for store from a simulator.
-version: 0.0.1
+version: 0.0.2
 
 repository: https://github.com/akaboshinit/device_preview_store_screenshot
 homepage: https://github.com/akaboshinit/device_preview_store_screenshot
 issue_tracker: https://github.com/akaboshinit/device_preview_store_screenshot/issues
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.1 <4.0.0'
+  flutter: ">=3.0.0"
 
 dependencies:
   device_preview: ^1.1.0
